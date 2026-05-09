@@ -1,4 +1,4 @@
-# bot.py
+# bot.git
 import telebot
 import os
 
